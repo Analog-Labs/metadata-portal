@@ -57,10 +57,7 @@ export const FAQ = () => (
               <OrdinalNumber>1</OrdinalNumber>
               <div className="pt-1">
                 The first step is to locate the network that needs metadata
-                updating in <strong className="font-bold">Parity</strong> or{" "}
-                <strong className="font-bold">Novasama</strong>. Note: To
-                navigate between the two portals, use the Metadata Portal
-                dropdown at the top of the page.
+                updating.
               </div>
             </li>
             <li className="flex items-top">
@@ -128,7 +125,8 @@ export const FAQ = () => (
         </Disclosure.Button>
         <Disclosure.Panel className="px-6 pt-0 pb-8 max-w-3xl">
           <p className="pb-4">
-            Metadata about networks chain specs is stored in two places:
+            This portal only serves Analog ecosystem chains. Other popular
+            metadata portals are:
           </p>
           <ol className="space-y-2 pb-4">
             <li className="flex items-top">

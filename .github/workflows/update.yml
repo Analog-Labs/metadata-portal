@@ -7,7 +7,7 @@ on:
 
 env:
   BRANCH_PREFIX: sign-me
-  NOTIFY_MATRIX: true
+  NOTIFY_MATRIX: false
 
 jobs:
   update:
@@ -72,6 +72,8 @@ jobs:
             - [ ] `make signer` to sign files
             - [ ] `make collector` to gather information about current chain versions
             - [ ] `make cleaner` to remove obsolete QRs
+          assignees: |
+            FlorianFranzen
           draft: true
 
       - name: Notify Matrix channel

@@ -1,6 +1,6 @@
 const LINKS = [
-  ["GitHub", "https://github.com/paritytech/metadata-portal"],
-  ["Terms of Service", "https://www.parity.io/terms/"],
+  ["GitHub", "https://github.com/Analog-Labs/metadata-portal"],
+  ["Terms of Service", "https://www.analog.one/terms-and-conditions"],
 ];
 
 export const Links = () => {

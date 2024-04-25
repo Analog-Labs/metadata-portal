@@ -1,10 +1,6 @@
 {
-  "parity": {
-    "name": "Parity",
-    "url": "https://metadata.parity.io/"
-  },
-  "novasama": {
-    "name": "Novasama",
-    "url": "https://metadata.novasama.io/"
+  "analog": {
+    "name": "Analog One",
+    "url": "https://metadata.analog.one/"
   }
 }
