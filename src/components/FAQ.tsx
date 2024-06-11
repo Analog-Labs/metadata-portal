@@ -125,7 +125,8 @@ export const FAQ = () => (
         </Disclosure.Button>
         <Disclosure.Panel className="px-6 pt-0 pb-8 max-w-3xl">
           <p className="pb-4">
-            This portal only serves Analog ecosystem chains. Other popular metadata portals are:
+            This portal only serves Analog ecosystem chains. Other popular
+            metadata portals are:
           </p>
           <ol className="space-y-2 pb-4">
             <li className="flex items-top">
