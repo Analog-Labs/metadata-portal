@@ -9,7 +9,14 @@
     "logo": "analog-testnet",
     "decimals": 12,
     "liveMetaVersion": 124,
-    "metadataQr": null,
+    "metadataQr": {
+      "version": 124,
+      "file": {
+        "path": "qr/analog-testnet_metadata_124.apng",
+        "signedBy": "Analog One",
+        "source": null
+      }
+    },
     "latestMetadata": "qr/analog-testnet_metadata_latest.apng",
     "specsQr": {
       "path": "qr/analog-testnet_specs.png",
