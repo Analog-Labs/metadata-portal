@@ -7,6 +7,12 @@ name = "Analog One"
 public_key = "6677288c78d6645971f553bc2e21921de9aa9244dd4c6cf51b64c2dff6f34972"
 
 [[chains]]
+name = "analog-timechain"
+title = "Analog Timechain"
+rpc_endpoint = "wss://rpc.timechain.analog.one"
+color = "#5d3ef8"
+
+[[chains]]
 name = "analog-testnet"
 title = "Analog Testnet"
 rpc_endpoint = "wss://rpc.testnet.analog.one"
