@@ -1,4 +1,30 @@
 {
+  "analog-timechain": {
+    "title": "Analog Timechain",
+    "color": "#5d3ef8",
+    "rpcEndpoint": "wss://rpc.timechain.analog.one",
+    "genesisHash": "0x1459b0204b92719ffc978c5da3d6a2057973916bd548f8076df2064bc1cb4cfc",
+    "unit": "ANLOG",
+    "base58prefix": 12850,
+    "logo": "analog-timechain",
+    "decimals": 12,
+    "liveMetaVersion": 0,
+    "metadataQr": {
+      "version": 0,
+      "file": {
+        "path": "qr/analog-timechain_metadata_0.apng",
+        "signedBy": "Analog One",
+        "source": null
+      }
+    },
+    "latestMetadata": "qr/analog-timechain_metadata_latest.apng",
+    "specsQr": {
+      "path": "qr/analog-timechain_specs.png",
+      "signedBy": "Analog One",
+      "source": null
+    },
+    "relayChain": null
+  },
   "analog-testnet": {
     "title": "Analog Testnet",
     "color": "#5d3ef8",
