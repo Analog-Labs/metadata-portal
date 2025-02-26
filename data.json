@@ -8,7 +8,7 @@
     "base58prefix": 12850,
     "logo": "analog-timechain",
     "decimals": 12,
-    "liveMetaVersion": 18,
+    "liveMetaVersion": 19,
     "metadataQr": null,
     "latestMetadata": "qr/analog-timechain_metadata_latest.apng",
     "specsQr": {
