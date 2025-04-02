@@ -29,7 +29,7 @@
     "title": "Analog Testnet",
     "color": "#5C3FF7",
     "rpcEndpoint": "wss://rpc.testnet.analog.one",
-    "genesisHash": "0x213a120fde0de6c5d904395e0cef21c09357e0713ab9bccf4bbba085f9e01d1c",
+    "genesisHash": "0x6d04f01a398a0de6466f7e3d8300e81fb1e5e8428a48ac4975469e90bedb96b6",
     "unit": "TANLOG",
     "base58prefix": 12851,
     "logo": "analog-testnet",
