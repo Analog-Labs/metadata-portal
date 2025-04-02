@@ -22,20 +22,13 @@
     "title": "Analog Testnet",
     "color": "#5d3ef8",
     "rpcEndpoint": "wss://rpc.testnet.analog.one",
-    "genesisHash": "0x0614f7b74a2e47f7c8d8e2a5335be84bdde9402a43f5decdec03200a87c8b943",
+    "genesisHash": "0x213a120fde0de6c5d904395e0cef21c09357e0713ab9bccf4bbba085f9e01d1c",
     "unit": "TANLOG",
-    "base58prefix": 12850,
+    "base58prefix": 12851,
     "logo": "analog-testnet",
     "decimals": 12,
-    "liveMetaVersion": 129,
-    "metadataQr": {
-      "version": 129,
-      "file": {
-        "path": "qr/analog-testnet_metadata_129.apng",
-        "signedBy": "Analog One",
-        "source": null
-      }
-    },
+    "liveMetaVersion": 24,
+    "metadataQr": null,
     "latestMetadata": "qr/analog-testnet_metadata_latest.apng",
     "specsQr": {
       "path": "qr/analog-testnet_specs.png",
