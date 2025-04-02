@@ -1,7 +1,7 @@
 {
   "analog-timechain": {
     "title": "Analog Timechain",
-    "color": "#5d3ef8",
+    "color": "#9A75F7",
     "rpcEndpoint": "wss://rpc.timechain.analog.one",
     "genesisHash": "0x1459b0204b92719ffc978c5da3d6a2057973916bd548f8076df2064bc1cb4cfc",
     "unit": "ANLOG",
@@ -9,7 +9,14 @@
     "logo": "analog-timechain",
     "decimals": 12,
     "liveMetaVersion": 25,
-    "metadataQr": null,
+    "metadataQr": {
+      "version": 25,
+      "file": {
+        "path": "qr/analog-timechain_metadata_25.apng",
+        "signedBy": "Analog One",
+        "source": null
+      }
+    },
     "latestMetadata": "qr/analog-timechain_metadata_latest.apng",
     "specsQr": {
       "path": "qr/analog-timechain_specs.png",
@@ -20,7 +27,7 @@
   },
   "analog-testnet": {
     "title": "Analog Testnet",
-    "color": "#5d3ef8",
+    "color": "#5C3FF7",
     "rpcEndpoint": "wss://rpc.testnet.analog.one",
     "genesisHash": "0x213a120fde0de6c5d904395e0cef21c09357e0713ab9bccf4bbba085f9e01d1c",
     "unit": "TANLOG",
@@ -28,7 +35,14 @@
     "logo": "analog-testnet",
     "decimals": 12,
     "liveMetaVersion": 24,
-    "metadataQr": null,
+    "metadataQr": {
+      "version": 24,
+      "file": {
+        "path": "qr/analog-testnet_metadata_24.apng",
+        "signedBy": "Analog One",
+        "source": null
+      }
+    },
     "latestMetadata": "qr/analog-testnet_metadata_latest.apng",
     "specsQr": {
       "path": "qr/analog-testnet_specs.png",
