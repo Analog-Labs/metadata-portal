@@ -9,7 +9,14 @@
     "logo": "analog-timechain",
     "decimals": 12,
     "liveMetaVersion": 30,
-    "metadataQr": null,
+    "metadataQr": {
+      "version": 30,
+      "file": {
+        "path": "qr/analog-timechain_metadata_30.apng",
+        "signedBy": "Analog One",
+        "source": null
+      }
+    },
     "latestMetadata": "qr/analog-timechain_metadata_latest.apng",
     "specsQr": {
       "path": "qr/analog-timechain_specs.png",
