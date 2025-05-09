@@ -27,7 +27,7 @@
     "base58prefix": 12851,
     "logo": "analog-testnet",
     "decimals": 12,
-    "liveMetaVersion": 32,
+    "liveMetaVersion": 33,
     "metadataQr": null,
     "latestMetadata": "qr/analog-testnet_metadata_latest.apng",
     "specsQr": {
