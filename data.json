@@ -9,7 +9,14 @@
     "logo": "analog-timechain",
     "decimals": 12,
     "liveMetaVersion": 39,
-    "metadataQr": null,
+    "metadataQr": {
+      "version": 39,
+      "file": {
+        "path": "qr/analog-timechain_metadata_39.apng",
+        "signedBy": "Analog One",
+        "source": null
+      }
+    },
     "latestMetadata": "qr/analog-timechain_metadata_latest.apng",
     "specsQr": {
       "path": "qr/analog-timechain_specs.png",
@@ -28,7 +35,14 @@
     "logo": "analog-testnet",
     "decimals": 12,
     "liveMetaVersion": 33,
-    "metadataQr": null,
+    "metadataQr": {
+      "version": 33,
+      "file": {
+        "path": "qr/analog-testnet_metadata_33.apng",
+        "signedBy": "Analog One",
+        "source": null
+      }
+    },
     "latestMetadata": "qr/analog-testnet_metadata_latest.apng",
     "specsQr": {
       "path": "qr/analog-testnet_specs.png",
