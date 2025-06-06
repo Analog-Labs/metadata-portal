@@ -8,15 +8,8 @@
     "base58prefix": 12850,
     "logo": "analog-timechain",
     "decimals": 12,
-    "liveMetaVersion": 39,
-    "metadataQr": {
-      "version": 39,
-      "file": {
-        "path": "qr/analog-timechain_metadata_39.apng",
-        "signedBy": "Analog One",
-        "source": null
-      }
-    },
+    "liveMetaVersion": 40,
+    "metadataQr": null,
     "latestMetadata": "qr/analog-timechain_metadata_latest.apng",
     "specsQr": {
       "path": "qr/analog-timechain_specs.png",
