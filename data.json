@@ -27,15 +27,8 @@
     "base58prefix": 12851,
     "logo": "analog-testnet",
     "decimals": 12,
-    "liveMetaVersion": 33,
-    "metadataQr": {
-      "version": 33,
-      "file": {
-        "path": "qr/analog-testnet_metadata_33.apng",
-        "signedBy": "Analog One",
-        "source": null
-      }
-    },
+    "liveMetaVersion": 45,
+    "metadataQr": null,
     "latestMetadata": "qr/analog-testnet_metadata_latest.apng",
     "specsQr": {
       "path": "qr/analog-testnet_specs.png",
